@@ -13,8 +13,11 @@ var config = {
         "第一个生日！",
         "有幸与你相遇",
         "有幸闯入你的生活",
-        "今天",
-        "礼物收全了吗",
+        "有幸",
+        "收获美好的记忆——",
+        "关于你的记忆！",
+        "嘿嘿~~",
+        "记得一定要快乐",
         "就算工作很忙",
         "也别忘了",
         "一定要吃好好的",
@@ -34,10 +37,6 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的姑娘": "./imgs/nothing.jpg",
-        "今年要吃好好的": "./imgs/chihaodian.jpeg",
-        "喂饱饱的": "./imgs/weibao.jpeg",
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -49,9 +48,9 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐～",
-        story: "A MESSAGE FOR YOU"
+        story: "碎碎念开始！"
     },
 
     // 结束语
-    loveText: 'BEST WISH - 袁先生~'
+    loveText: 'BEST WISH - 小袁同学~'
 };
